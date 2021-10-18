@@ -14,7 +14,7 @@ function createUserCategoies() {
           });
         userCategories[0].appendChild(e);
     }
-}
+} 
 
 function createProductList() {
   

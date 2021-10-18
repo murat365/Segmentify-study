@@ -1,7 +1,7 @@
 var data={
   "campaigns": [
       []
-  ],
+  ], 
   "responses": [
       [
           {
@@ -49,7 +49,7 @@ var data={
                               ],
                               "lastUpdateTime": 1623995512045,
                               "inStock": true,
-                              "insertTime": 1609845032522,
+                              "insertTime": 1609845032522,  
                               "publishTime": 1609845032522,
                               "params": {
                                   "sellerNick": "hirdavatmarketi",
